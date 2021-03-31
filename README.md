@@ -40,4 +40,5 @@ The passwords will be encrypted using the 4 digits PIN code.
 ## Extra Arduino Libraries:
 
 [ClickEncoder.h](https://github.com/0xPIT/encoder/tree/arduino)
+
 [TimerOne.h](http://playground.arduino.cc/Code/Timer1)
