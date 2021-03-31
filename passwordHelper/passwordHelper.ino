@@ -25,6 +25,7 @@ const int COM_DELAY = 200;
 int16_t last, value;
 ClickEncoder *encoder;
 
+//Test lock ID replace 
 const String LOCK_ID = "5236658DKS";
 String lockString = "";
 String pin = "";
